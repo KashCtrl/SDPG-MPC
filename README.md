@@ -1,4 +1,4 @@
-# SDPG-MPCSDPG-MPC
+# SDPG-MPC
 Sampled-Data Primal-Dual Gradient Dynamics in Model Predictive Control
 
 ##
